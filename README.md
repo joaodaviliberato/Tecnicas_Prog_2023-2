@@ -1,1 +1,1 @@
-# T-cnicas_Prog_2023-2
+# Tecnicas_Prog_2023-2

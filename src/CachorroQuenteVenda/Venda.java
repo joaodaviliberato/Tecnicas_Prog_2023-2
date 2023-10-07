@@ -2,6 +2,7 @@ package CachorroQuenteVenda;
 public class Venda {
 	private Cliente cliente;
 	private CachorroQuente[] cachorrosQuentes;
+	protected String bebida;
 
 	public Venda(Cliente cliente, CachorroQuente cachorroQuente[]) {
 		this.cliente = cliente;
